@@ -12,10 +12,10 @@ Cross the street and reach the water.
 ## Manual:
 
 Use the arrow keys to move the player:
-1. high 
-2. down
-3. left
-4. right
+- high 
+- down
+- left
+- right
 
 The playing field can not be left. After reaching the water, confirm with ok.
 
@@ -34,4 +34,4 @@ Download the repository:
 
 The game is still in its raw state but is being further developed.
 
-*for more [click here](http://www.andysportfolio.com*
+*for more [click here](http://www.andysportfolio.com)*

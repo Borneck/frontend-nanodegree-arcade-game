@@ -33,3 +33,5 @@ Download the repository:
 ## Upadate:
 
 The game is still in its raw state but is being further developed.
+
+*for more [click here](http://www.andysportfolio.com*

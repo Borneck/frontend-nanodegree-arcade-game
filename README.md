@@ -1,6 +1,35 @@
-# frontend-nanodegree-arcade-game
+# **frontend-nanodegree-arcade-game**
 
-Bei diesem Spiel müssen sie das Wasser erreichen um zu Siegen.
-Aber Vorsicht es lauern gefahren wo dich zurück an den anfang versetzten.
+## Game features:
 
-In diesem Kurs habe ich das OOP in Javascript vertieft.
+The game is a one player mode.
+Enemies must not be touched otherwise it will be back to the start.
+
+## Goal of the game:
+
+Cross the street and reach the water.
+
+## Manual:
+
+Use the arrow keys to move the player:
+1. high 
+2. down
+3. left
+4. right
+
+The playing field can not be left. After reaching the water, confirm with ok.
+
+## Game description:
+
+A classic acarde game based on the principle of the famous game frogger. Canvas 2d was used and programmed in Javascript ES6.
+
+## Installation:
+
+Download the repository:
+- Click download ZIP
+- extract the zip file to your computer
+- Double-click index.html to open the game in your browser.
+
+## Upadate:
+
+The game is still in its raw state but is being further developed.
